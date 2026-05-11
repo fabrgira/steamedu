@@ -1,0 +1,46 @@
+{
+  "games": [
+    {
+      "game_id": "400",
+      "title": "Portal",
+      "custom_description": "Portal é um jogo de quebra-cabeça revolucionário que desenvolve raciocínio espacial, lógica dedutiva e pensamento criativo. Ideal para trabalhar resolução de problemas em sala de aula.",
+      "tags_ods": ["Educação", "Inovação"],
+      "learning_goals": "Raciocínio lógico-espacial, persistência e pensamento lateral."
+    },
+    {
+      "game_id": "620",
+      "title": "Portal 2",
+      "custom_description": "Sequência cooperativa que adiciona trabalho em equipe e comunicação ao desafio de Portal. Excelente para atividades de pair-programming e colaboração.",
+      "tags_ods": ["Educação", "Inovação", "Parcerias"],
+      "learning_goals": "Trabalho colaborativo, comunicação e resolução de problemas complexos."
+    },
+    {
+      "game_id": "413150",
+      "title": "Stardew Valley",
+      "custom_description": "Simulação de fazenda que aborda sustentabilidade, economia doméstica, planejamento e ciclos naturais. Conecta-se a temas de ciências e matemática.",
+      "tags_ods": ["Educação", "Consumo Responsável", "Vida Terrestre"],
+      "learning_goals": "Planejamento de recursos, matemática financeira e sustentabilidade."
+    },
+    {
+      "game_id": "1086940",
+      "title": "Baldur's Gate 3",
+      "custom_description": "RPG profundo com narrativa ramificada, ética situacional e construção de personagem. Excelente para debates sobre tomada de decisão e filosofia.",
+      "tags_ods": ["Educação", "Paz e Justiça"],
+      "learning_goals": "Ética, empatia, raciocínio narrativo e tomada de decisão."
+    },
+    {
+      "game_id": "1237970",
+      "title": "Titanfall 2",
+      "custom_description": "Campanha com quebra-cabeças físicos e mecânicas de manipulação do tempo. Útil para introduzir conceitos de física cinemática de forma lúdica.",
+      "tags_ods": ["Educação", "Inovação"],
+      "learning_goals": "Noções de física, resolução de puzzles e reflexos cognitivos."
+    },
+    {
+      "game_id": "105600",
+      "title": "Terraria",
+      "custom_description": "Sandbox de exploração e criação que estimula criatividade, gestão de recursos e progressão não-linear. Funciona como base para projetos de design.",
+      "tags_ods": ["Educação", "Inovação", "Consumo Responsável"],
+      "learning_goals": "Criatividade, gestão de recursos e pensamento sistêmico."
+    }
+  ]
+}
