@@ -4,259 +4,382 @@
       "game_id": "400",
       "title": "Portal",
       "custom_description": "Portal é uma obra-prima do design de jogos que coloca o jogador no papel de Chell, uma cobaia em uma instalação científica abandonada controlada pela IA GLaDOS. O jogo ensina raciocínio espacial tridimensional de forma orgânica: cada câmara de teste exige que o jogador entenda física newtoniana, conservação de momento e perspectiva geométrica sem nunca abrir um livro. A narrativa é construída em camadas — o humor ácido da GLaDOS esconde uma crítica ao utilitarismo científico e à desumanização institucional, temas ricos para debates em aula de filosofia e ética. A progressão do jogo modela habilidades metacognitivas: o jogador aprende a reconhecer seus próprios erros, formular hipóteses e testar soluções sistematicamente. Portal demonstra que frustração controlada é um poderoso motor de aprendizagem.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Raciocínio lógico-espacial, física aplicada, persistência e metacognição."
     },
     {
       "game_id": "620",
       "title": "Portal 2",
       "custom_description": "Portal 2 expande o universo do original adicionando uma dimensão social fundamental: a cooperação. No modo co-op, dois jogadores controlam robôs e precisam resolver câmaras de teste que são literalmente impossíveis de completar sozinho — cada puzzle exige comunicação, divisão de tarefas e confiança mútua. Este design é uma simulação perfeita de dinâmicas de trabalho em equipe e metodologias ágeis. A narrativa aprofunda temas de ética científica, responsabilidade corporativa e o que significa ser humano diante da automação. Wheatley, o antagonista central, é uma alegoria sobre como incompetência aliada a poder pode ser mais perigosa que malícia.",
-      "tags_ods": ["Educação", "Inovação", "Parcerias"],
+      "tags_ods": [
+        "Educação",
+        "Inovação",
+        "Parcerias"
+      ],
       "learning_goals": "Cooperação, comunicação, divisão de tarefas, física espacial e ética tecnológica."
     },
     {
       "game_id": "413150",
       "title": "Stardew Valley",
       "custom_description": "Stardew Valley é um simulador de fazenda que esconde sob sua estética pixel art uma aula completa de economia doméstica, planejamento estratégico e sustentabilidade. O jogador herda uma fazenda abandonada e precisa tomar decisões sobre alocação de tempo, capital inicial, diversificação de culturas e gestão de estoque. O ciclo das estações força o planejamento de longo prazo — uma habilidade financeira crítica. Além da dimensão econômica, o jogo apresenta uma comunidade vibrante com histórias de saúde mental, perda e pertencimento. O arco de restauração da Comunidade versus a Joja Corporation levanta questões poderosas sobre consumo consciente, gentrificação e o valor dos laços comunitários.",
-      "tags_ods": ["Educação", "Consumo Responsável", "Vida Terrestre"],
+      "tags_ods": [
+        "Educação",
+        "Consumo Responsável",
+        "Vida Terrestre"
+      ],
       "learning_goals": "Planejamento financeiro, gestão de recursos, sustentabilidade agrícola e cidadania comunitária."
     },
     {
       "game_id": "1086940",
       "title": "Baldur's Gate 3",
       "custom_description": "Baldur's Gate 3 é um RPG de enorme profundidade narrativa e moral que coloca o jogador diante de escolhas sem respostas fáceis. Cada decisão tem consequências ramificadas que refletem a complexidade da vida real: ajudar um grupo pode prejudicar outro, a verdade pode causar dor, e nem todo antagonista é puramente malévolo. O jogo é uma simulação sofisticada de ética situacional e tomada de decisão sob incerteza. A construção de personagem — com raça, classe, histórico e características — promove reflexão sobre identidade, preconceito e representatividade. O sistema de diálogo exige empatia ativa: entender as motivações dos NPCs é tão importante quanto o poder do personagem.",
-      "tags_ods": ["Educação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "Ética, tomada de decisão, empatia, pensamento consequencialista e análise narrativa."
     },
     {
       "game_id": "105600",
       "title": "Terraria",
       "custom_description": "Terraria é um sandbox 2D de exploração e construção que desenvolve pensamento sistêmico de forma notável. O jogador parte do zero em um mundo gerado proceduralmente e precisa descobrir, por experimentação e observação, como sistemas de crafting, biomas e progressão de dificuldade funcionam. Não há tutorial explícito — o conhecimento é construído ativamente, modelando a epistemologia científica. A dimensão criativa é igualmente rica: construir bases funcionais e esteticamente coerentes exige noções de arquitetura, design espacial e engenharia. Terraria também tem forte apelo comunitário, com wikis colaborativas e mods desenvolvidos por jogadores — introduzindo conceitos de código aberto e produção coletiva de conhecimento.",
-      "tags_ods": ["Educação", "Inovação", "Consumo Responsável"],
+      "tags_ods": [
+        "Educação",
+        "Inovação",
+        "Consumo Responsável"
+      ],
       "learning_goals": "Criatividade, pensamento sistêmico, design, experimentação científica e colaboração."
     },
     {
       "game_id": "282140",
       "title": "The Witness",
       "custom_description": "The Witness é talvez o jogo de puzzle mais ambicioso já criado. Ambientado em uma ilha misteriosa repleta de painéis de labirinto, o jogo nunca explica suas regras — o jogador precisa observar o ambiente, formular hipóteses e deduzir os princípios por conta própria. Este processo espelha com precisão o método científico. O que começa como simples labirintos evolui para sistemas de regras sobrepostas de beleza matemática, culminando em puzzles que exigem repensar completamente o que o jogador acreditava saber. Jonathan Blow incorporou no jogo meditações sobre epistemologia, percepção e o ato de aprender. Uma experiência transformadora sobre como adquirimos conhecimento e como nossos preconceitos limitam nossa percepção.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Método científico, dedução lógica, observação sistemática, paciência e epistemologia."
     },
     {
       "game_id": "736260",
       "title": "Baba Is You",
       "custom_description": "Baba Is You é um jogo de puzzle radicalmente original onde as próprias regras do jogo são objetos que podem ser manipulados. A premissa — empurrar blocos de texto para reescrever as leis que governam o mundo — é uma metáfora viva de programação, lógica formal e pensamento computacional. Para resolver os níveis, o jogador precisa pensar em sistemas de regras, identificar contradições e explorar estados de exceção. É pensamento algorítmico na sua forma mais pura e lúdica. Educadores de ciência da computação utilizam Baba Is You para introduzir conceitos de linguagens de programação e gramáticas formais. A premissa filosófica — que regras podem e devem ser questionadas — é um convite ao pensamento crítico sobre sistemas sociais.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Pensamento computacional, lógica formal, programação conceitual e questionamento de sistemas."
     },
     {
       "game_id": "588650",
       "title": "Into the Breach",
       "custom_description": "Into the Breach é um jogo de estratégia baseado em turnos onde o jogador controla mechs para defender a humanidade. O que o torna extraordinário é sua informação perfeita: o jogador sempre sabe exatamente o que o inimigo vai fazer no próximo turno. Isso elimina o azar e torna cada derrota um problema matemático a ser resolvido. O jogo desenvolve planejamento prospectivo, otimização com restrições e tomada de decisão sob pressão com consequências claras. Cada missão é um quebra-cabeça de xadrez com múltiplas variáveis simultâneas. A narrativa de sacrifício e recomeço — pilotos que viajam no tempo carregando memórias de mundos destruídos — adiciona profundidade emocional sobre responsabilidade coletiva e legado.",
-      "tags_ods": ["Educação", "Inovação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Inovação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "Planejamento estratégico, otimização matemática, pensamento prospectivo e responsabilidade coletiva."
     },
     {
       "game_id": "1145360",
       "title": "Hades",
       "custom_description": "Hades integra narrativa e mecânica de roguelike de forma revolucionária: cada morte é uma conversa, cada tentativa revela novos fragmentos da história. O jogo é ambientado na mitologia grega e apresenta os deuses olímpicos como personagens complexos com motivações, falhas e histórias pessoais — tornando-se um portal vivo para o estudo da mitologia clássica. Do ponto de vista de formação de caráter, o protagonista Zagreus modela resiliência, determinação e a capacidade de extrair aprendizado de cada fracasso. O relacionamento com seu pai Hades explora temas universais de conflito geracional, busca de identidade e reconciliação. Hades demonstra que persistência, não perfeição, é o caminho para o crescimento.",
-      "tags_ods": ["Educação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "Mitologia grega, resiliência, identidade, conflito geracional e aprendizado iterativo."
     },
     {
       "game_id": "1366540",
       "title": "Dyson Sphere Program",
       "custom_description": "Dyson Sphere Program é um jogo de construção e automação industrial em escala galáctica. O jogador começa extraindo recursos de um planeta e evolui para construir fábricas automatizadas, redes de energia interestelar e, eventualmente, uma esfera de Dyson ao redor de uma estrela. O jogo é uma simulação de engenharia de sistemas e pensamento escalável: cada solução local precisa ser generalizada para funcionar em escala planetária. Conceitos de termodinâmica, astronomia, cadeia de produção e otimização de fluxo são abordados de forma intuitiva. A progressão tecnológica do jogo espelha a história da Revolução Industrial e da era espacial, sendo um excelente complemento para física, história da tecnologia e engenharia.",
-      "tags_ods": ["Inovação", "Educação"],
+      "tags_ods": [
+        "Inovação",
+        "Educação"
+      ],
       "learning_goals": "Engenharia de sistemas, termodinâmica, astronomia aplicada, automação e pensamento escalável."
     },
     {
       "game_id": "427520",
       "title": "Factorio",
       "custom_description": "Factorio é o simulador de engenharia e programação mais eficaz disfarçado de jogo. O objetivo é construir e otimizar uma fábrica automatizada para lançar um foguete. Para alcançar isso, o jogador precisa projetar linhas de produção eficientes, criar redes logísticas, programar robôs autônomos e resolver gargalos de capacidade — habilidades diretamente transferíveis para engenharia de software e design de sistemas. O modo multiplayer transforma o jogo em um exercício de engenharia colaborativa com divisão de trabalho e integração de subsistemas. A comunidade de Factorio produz mods que incluem implementações de processadores reais dentro do jogo — um exemplo extraordinário de criatividade técnica.",
-      "tags_ods": ["Inovação", "Educação"],
+      "tags_ods": [
+        "Inovação",
+        "Educação"
+      ],
       "learning_goals": "Engenharia de sistemas, programação lógica, otimização, logística e colaboração técnica."
     },
     {
       "game_id": "292030",
       "title": "The Witcher 3: Wild Hunt",
       "custom_description": "The Witcher 3 é uma obra de ficção interativa de escala épica que coloca questões morais complexas no centro de cada decisão. Geralt de Rívia habita um mundo onde o bem e o mal são relativos e onde os verdadeiros monstros frequentemente são humanos. O jogo explora com profundidade temas de preconceito racial (elfos e anões como minorias oprimidas), refugiados, guerra e corrupção política — todos com paralelos diretos ao mundo contemporâneo. A busca por Ciri é uma narrativa sobre parentalidade, proteção e o limite entre cuidar e controlar. Para estudantes de literatura e ciências sociais, The Witcher 3 oferece material inesgotável para análise crítica e debate.",
-      "tags_ods": ["Educação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "Ética aplicada, análise política, empatia cultural, pensamento crítico e análise literária."
     },
     {
       "game_id": "391540",
       "title": "Undertale",
       "custom_description": "Undertale é um RPG que desconstrói as convenções do próprio gênero para fazer perguntas filosóficas genuínas: por que matar é a resposta padrão? O jogo oferece a possibilidade de completar toda a aventura sem causar nenhuma morte, recompensando a empatia com as histórias mais ricas. Cada monstro tem personalidade, motivações e vulnerabilidades emocionais. O sistema de combate se transforma em conversação quando o jogador escolhe a não-violência. Undertale é uma experiência única sobre consentimento, consequência e a importância de ouvir o outro. É um poderoso recurso para discutir resolução não-violenta de conflitos e como sistemas incentivam ou desencorajam comportamentos específicos.",
-      "tags_ods": ["Paz e Justiça", "Educação"],
+      "tags_ods": [
+        "Paz e Justiça",
+        "Educação"
+      ],
       "learning_goals": "Empatia, resolução não-violenta de conflitos, filosofia moral e análise de sistemas de incentivo."
     },
     {
-      "game_id": "1284210",
+      "game_id": "264710",
       "title": "Subnautica",
       "custom_description": "Subnautica é um jogo de sobrevivência subaquática que transforma o oceano alien em uma sala de aula viva de biologia marinha, ecologia e física. O jogador naufragou em um planeta coberto de água e precisa explorar biomas submarinos coletando recursos e construindo bases. Cada bioma tem ecossistemas únicos com predadores, presas e ciclos de alimentação realistas. A progressão narrativa está ligada à compreensão do ecossistema local: entender os organismos não é opcional, é sobrevivência. Subnautica também aborda o medo do desconhecido e o controle da ansiedade. Um recurso extraordinário para biologia, ecologia e saúde emocional.",
-      "tags_ods": ["Educação", "Vida Terrestre", "Consumo Responsável"],
+      "tags_ods": [
+        "Educação",
+        "Vida Terrestre",
+        "Consumo Responsável"
+      ],
       "learning_goals": "Biologia marinha, ecologia de ecossistemas, física de pressão, gestão de recursos e regulação emocional."
     },
     {
-      "game_id": "1868140",
+      "game_id": "2379780",
       "title": "Dave the Diver",
       "custom_description": "Dave the Diver combina mergulho de exploração com gestão de restaurante japonês. Durante o dia, o jogador mergulha em um misterioso buraco azul com ecossistema dinâmico para coletar peixes e ingredientes. À noite, gerencia o sushi bar com os recursos coletados. O jogo ensina cadeia alimentar marinha, sustentabilidade pesqueira e os impactos do sobrepesca de forma visceral — pescar demais hoje significa menos recursos amanhã. A gestão do restaurante introduz princípios de administração, precificação e satisfação do cliente. A narrativa aborda proteção de ecossistemas e culturas marinhas tradicionais. Acessível, divertido e rico em conteúdo educativo sobre meio ambiente e empreendedorismo.",
-      "tags_ods": ["Vida Terrestre", "Consumo Responsável", "Educação"],
+      "tags_ods": [
+        "Vida Terrestre",
+        "Consumo Responsável",
+        "Educação"
+      ],
       "learning_goals": "Sustentabilidade marinha, cadeia alimentar, administração básica, precificação e conservação ambiental."
     },
     {
-      "game_id": "1533420",
+      "game_id": "1633230",
       "title": "Endling: Extinction is Forever",
       "custom_description": "Endling: Extinction is Forever é talvez o jogo mais emocionalmente direto sobre crise ambiental já criado. O jogador controla a última raposa da Terra, guiando seus filhotes por um mundo devastado pela humanidade. Cada cenário é uma documentação visual de desastres ambientais reais: queimadas, poluição de rios, desmatamento, lixo plástico. O jogo não precisa explicar nada — a devastação é mostrada, não narrada. A mecânica de cuidado com os filhotes cria um vínculo emocional que torna a mensagem ambiental devastadoramente eficaz. Endling é um recurso poderoso para conscientização ambiental, especialmente para jovens.",
-      "tags_ods": ["Vida Terrestre", "Consumo Responsável", "Educação"],
+      "tags_ods": [
+        "Vida Terrestre",
+        "Consumo Responsável",
+        "Educação"
+      ],
       "learning_goals": "Consciência ambiental, impacto humano nos ecossistemas, empatia interespécies e ativismo ecológico."
     },
     {
       "game_id": "1621570",
       "title": "Timberborn",
       "custom_description": "Timberborn é um city builder onde castores constroem civilizações em um planeta Terra pós-apocalíptico. A mecânica central é a gestão da água: períodos de seca devastam a produção de alimentos, forçando os jogadores a construir represas, canais de irrigação e sistemas de armazenamento. O jogo é uma simulação de engenharia hidráulica, planejamento urbano sustentável e adaptação às mudanças climáticas. Cada decisão de construção tem impactos em cascata no ecossistema local. Timberborn modela pensamento sistêmico de longo prazo e as consequências de não planejar para o futuro. Um recurso excelente para geografia, ciências ambientais e urbanismo.",
-      "tags_ods": ["Vida Terrestre", "Inovação", "Consumo Responsável"],
+      "tags_ods": [
+        "Vida Terrestre",
+        "Inovação",
+        "Consumo Responsável"
+      ],
       "learning_goals": "Engenharia hidráulica, planejamento urbano, sustentabilidade, mudanças climáticas e pensamento sistêmico."
     },
     {
       "game_id": "2074920",
       "title": "Terra Nil",
       "custom_description": "Terra Nil inverte a lógica dos city builders: em vez de explorar recursos naturais para construir cidades, o jogador restaura ecossistemas devastados para devolver a terra à natureza. O jogo começa com um planeta árido e termina com sucesso quando toda a infraestrutura é desmontada e reciclada, deixando apenas vida selvagem. A mecânica exige compreensão de biomas, sucessão ecológica, hidrologia e biodiversidade. Terra Nil é uma inversão filosófica poderosa: o progresso não é construir mais, mas restaurar o que foi destruído e depois sair. Para educadores ambientais, este jogo modela o que sustentabilidade de verdade significa.",
-      "tags_ods": ["Vida Terrestre", "Consumo Responsável"],
+      "tags_ods": [
+        "Vida Terrestre",
+        "Consumo Responsável"
+      ],
       "learning_goals": "Restauração ecológica, biomas, sucessão ecológica, sustentabilidade e filosofia do desenvolvimento."
     },
     {
       "game_id": "863550",
       "title": "Eco",
       "custom_description": "Eco é um MMO de construção e sobrevivência com uma premissa única: um meteoro está a dias de atingir o planeta, e os jogadores precisam desenvolver tecnologia suficiente para destruí-lo — sem destruir o ecossistema no processo. O jogo simula em tempo real os impactos ambientais de cada decisão coletiva: poluição do ar, erosão do solo, extinção de espécies. Há um governo player-driven com leis, impostos e votações. Eco é uma simulação completa de desenvolvimento sustentável, política ambiental e tragédia dos comuns. Nenhum outro jogo coloca jovens tão diretamente na posição de policy makers enfrentando a crise climática.",
-      "tags_ods": ["Vida Terrestre", "Consumo Responsável", "Paz e Justiça", "Inovação"],
+      "tags_ods": [
+        "Vida Terrestre",
+        "Consumo Responsável",
+        "Paz e Justiça",
+        "Inovação"
+      ],
       "learning_goals": "Política ambiental, tragédia dos comuns, cidadania, desenvolvimento sustentável e simulação de governança."
     },
     {
       "game_id": "753640",
       "title": "Outer Wilds",
       "custom_description": "Outer Wilds é frequentemente descrito como o jogo mais importante da última década. O jogador acorda em um sistema solar preso em um loop de 22 minutos que termina na explosão do sol. Não há missões, não há marcadores — apenas um sistema solar misterioso para explorar através de observação pura. O jogo modela a curiosidade científica em sua forma mais pura: o progresso não vem de ficar mais forte, mas de aprender mais. Outer Wilds lida com temas de finitude, aceitação da morte, legado civilizacional e o valor do conhecimento pelo conhecimento. Uma experiência filosófica e científica que permanece com o jogador para sempre.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Curiosidade científica, astronomia, física orbital, filosofia da finitude e aprendizagem exploratória."
     },
     {
       "game_id": "1599340",
       "title": "Disco Elysium",
       "custom_description": "Disco Elysium é o RPG mais literário já criado — um romance interativo sobre um detetive sem memória em uma cidade pós-revolucionária em colapso. O jogo não tem combate: todo conflito é resolvido por diálogo, persuasão e interpretação. As habilidades do personagem representam vozes internas em conflito — Enciclopédia, Empatia, Autoridade — criando uma representação notável de psicologia introspectiva. A narrativa aborda capitalismo, comunismo, fascismo e liberalismo não como abstrações, mas como experiências vividas por personagens complexos. Disco Elysium é material para cursos de filosofia política, literatura e psicologia. Uma das obras mais importantes da ficção do século XXI, independente do meio.",
-      "tags_ods": ["Educação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "Filosofia política, psicologia, análise literária, ética e pensamento crítico sobre sistemas políticos."
     },
     {
-      "game_id": "1097840",
+      "game_id": "504230",
       "title": "Celeste",
       "custom_description": "Celeste é um platformer de precisão que usa a escalada de uma montanha como metáfora para a jornada de Madeline com ansiedade e síndrome do impostor. O jogo aborda saúde mental de forma surpreendentemente honesta: Madeline não cura sua ansiedade ao chegar ao topo — ela aprende a coexistir com ela. O modo assistido, que permite ajustar a dificuldade de qualquer forma sem punição ou julgamento, é um exemplo notável de design inclusivo e da filosofia de que o desafio deve ser escolha, não barreira. Para educadores de saúde mental e inclusão, Celeste é um recurso extraordinário sobre autocompaixão e pedir ajuda.",
-      "tags_ods": ["Educação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "Saúde mental, ansiedade, autocompaixão, design inclusivo, persistência e pedir ajuda."
     },
     {
-      "game_id": "1060830",
+      "game_id": "1051690",
       "title": "Spiritfarer",
       "custom_description": "Spiritfarer é um jogo de gestão e construção sobre morte e despedida — talvez o mais carinhoso já feito sobre o tema. O jogador controla Stella, a nova barqueira dos mortos, que cuida de espíritos de pessoas falecidas até eles estarem prontos para partir. Cada espírito representa um arquétipo de pessoa real com histórias de vida, traumas, alegrias e necessidades específicas. O ato de cuidar — cozinhar, construir, abraçar, ouvir — é a mecânica central. Para jovens que perderam alguém próximo, ou simplesmente para desenvolver inteligência emocional, Spiritfarer oferece um espaço seguro para processar emoções complexas sobre luto e despedida.",
-      "tags_ods": ["Educação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "Inteligência emocional, luto, empatia, cuidado e despedida como processo saudável."
     },
     {
       "game_id": "356200",
       "title": "Kerbal Space Program",
       "custom_description": "Kerbal Space Program é o simulador de agência espacial mais completo disponível ao público geral e uma das ferramentas educacionais mais eficazes da história dos jogos. O jogador projeta foguetes, calcula trajetórias orbitais e planeja missões interplanetárias — e o jogo falha fisicamente quando você erra os cálculos. A NASA utiliza KSP como ferramenta educativa. O processo de design iterativo — construir, lançar, falhar, analisar, redesenhar — é uma simulação perfeita da engenharia aeroespacial real. O jogo já inspirou jovens a seguirem carreiras em engenharia e ciências espaciais em todo o mundo. Uma das experiências educativas mais puras em formato de jogo.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Física orbital, engenharia aeroespacial, leis de Kepler, design iterativo e método científico."
     },
     {
       "game_id": "860950",
       "title": "Oxygen Not Included",
       "custom_description": "Oxygen Not Included é um simulador de colônia subterrânea onde o jogador mantém duplicantes vivos em um asteroide hostil. O desafio central é a gestão de gases: oxigênio, dióxido de carbono e hidrogênio comportam-se de acordo com leis termodinâmicas reais. Para produzir oxigênio suficiente, o jogador precisa entender eletrólise da água, ciclos de carbono e termodinâmica de pressão. O gerenciamento de energia — produção, armazenamento e eficiência — é um exercício de engenharia elétrica. ONI é frequentemente recomendado por professores de física e química como ferramenta de visualização de conceitos abstratos em ação.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Termodinâmica, química de gases, engenharia elétrica, sistemas fechados e gestão de recursos."
     },
     {
       "game_id": "646570",
       "title": "Slay the Spire",
       "custom_description": "Slay the Spire é o roguelike de deck building mais influente da última década e um exercício profundo de probabilidade aplicada e teoria da decisão. O jogador constrói um deck de cartas ao longo de cada run, tomando decisões sobre quais cartas adicionar e como construir sinergias. Cada decisão é um problema de probabilidade condicional: dado o estado atual do deck, qual a chance de tirar a carta certa no momento certo? A construção de builds eficientes exige pensamento sistêmico e compreensão de variância versus consistência — conceitos fundamentais em estatística e teoria dos jogos. É utilizado em cursos de design de jogos como caso de estudo em design elegante.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Probabilidade, teoria da decisão, pensamento sistêmico, estatística e design de sistemas."
     },
     {
       "game_id": "1222670",
       "title": "The Forgotten City",
       "custom_description": "The Forgotten City transporta o jogador para uma cidade romana antiga presa em um loop temporal: se qualquer habitante pecar, todos morrem. A premissa é uma exploração brilhante de ética coletiva, responsabilidade individual e o paradoxo do livre-arbítrio em sistemas de lei. O jogo é ambientado com rigor histórico — arquitetura, costumes, filosofia e política romanas são apresentados com precisão. As múltiplas soluções para cada problema e os finais alternativos recompensam o pensamento lateral e o diálogo em vez da violência. Um recurso notável para aulas de história antiga, filosofia e ética.",
-      "tags_ods": ["Educação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "História romana, ética coletiva, livre-arbítrio, pensamento lateral e resolução de conflitos."
     },
     {
-      "game_id": "1097150",
+      "game_id": "438700",
       "title": "11-11: Memories Retold",
       "custom_description": "11-11: Memories Retold é uma experiência narrativa ambientada na Primeira Guerra Mundial, contada simultâneamente por um soldado canadense e um alemão. O jogo usa uma estética de pintura impressionista única e não tem combate — é sobre cartas, fotografias, amizades improváveis e o absurdo desumanizante da guerra. A decisão de humanizar soldados de ambos os lados é um ato pedagógico poderoso: demonstra que guerras são travadas por pessoas comuns em circunstâncias extraordinárias. É uma ferramenta extraordinária para aulas de história, capaz de gerar empatia histórica de uma forma que nenhum livro didático consegue.",
-      "tags_ods": ["Paz e Justiça", "Educação"],
+      "tags_ods": [
+        "Paz e Justiça",
+        "Educação"
+      ],
       "learning_goals": "História da Primeira Guerra, empatia histórica, perspectiva múltipla, paz e humanização do inimigo."
     },
     {
-      "game_id": "438740",
+      "game_id": "464920",
       "title": "Surviving Mars",
       "custom_description": "Surviving Mars coloca o jogador na missão de colonizar o planeta vermelho, gerenciando domes habitacionais, extração de recursos e a saúde mental de colonos em isolamento extremo. O jogo aborda com seriedade os desafios reais da colonização marciana: produção de oxigênio em ambiente hostil, logística a distâncias astronômicas e os efeitos psicológicos do isolamento prolongado. Colonos têm traços de personalidade, carreira e necessidades que precisam ser equilibradas. Um excelente complemento para astronomia, engenharia espacial e psicologia social, conectando ficção científica plausível com ciência real.",
-      "tags_ods": ["Educação", "Inovação", "Vida Terrestre"],
+      "tags_ods": [
+        "Educação",
+        "Inovação",
+        "Vida Terrestre"
+      ],
       "learning_goals": "Astronomia, engenharia espacial, psicologia social, logística e planejamento de missões."
     },
     {
-      "game_id": "1637320",
+      "game_id": "1707870",
       "title": "Unpacking",
       "custom_description": "Unpacking é um puzzle game zen sobre desembalar caixas ao longo de diferentes fases da vida de uma personagem. Sem uma palavra de diálogo, apenas através dos objetos que a protagonista carrega consigo, o jogo conta uma história completa sobre identidade, relacionamentos, crescimento e pertencimento. Cada item tem memória emocional: o ursinho de pelúcia, os livros de arte, a foto guardada ou jogada fora. Para jovens, Unpacking é uma reflexão poderosa sobre o que carregamos de nossas infâncias e o que nos faz sentir em casa. É também um exercício de narrativa visual — como contar história sem palavras.",
-      "tags_ods": ["Educação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "Narrativa visual, identidade, crescimento pessoal, memória emocional e pertencimento."
     },
     {
       "game_id": "236850",
       "title": "Europa Universalis IV",
       "custom_description": "Europa Universalis IV é o simulador histórico mais profundo já criado. O jogador controla uma nação qualquer — do Império Otomano ao Reino do Congo — através de cinco séculos de história, tomando decisões de diplomacia, economia, guerra e religião. O jogo é baseado em eventos históricos reais: cada crise e revolução tem sua contraparte no mundo real. EU4 é um curso de história global interativo — jogar com o Japão no período Sengoku é completamente diferente de jogar com Portugal durante os Descobrimentos. Para estudantes de história e ciências políticas, é um recurso incomparável para desenvolver compreensão sistêmica de como eventos históricos se interconectam.",
-      "tags_ods": ["Educação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "História global, geopolítica, diplomacia, economia política e relações internacionais."
     },
     {
       "game_id": "698670",
       "title": "Mindustry",
       "custom_description": "Mindustry combina tower defense com automação industrial em uma experiência gratuita e acessível. O jogador constrói redes de extração, processamento e transporte de recursos para abastecer torres de defesa. A progressão exige entendimento de fluxo de materiais, balanceamento de produção e priorização sob pressão. Por ser de código aberto e gratuito, Mindustry é ideal para ambientes educacionais com restrições orçamentárias. O jogo tem forte comunidade brasileira e suporte a mods, permitindo que educadores customizem cenários. Uma excelente introdução a conceitos de logística e programação de autômatos.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Logística, automação, balanceamento de sistemas, programação básica e design iterativo."
     },
     {
-      "game_id": "1716740",
+      "game_id": "1794680",
       "title": "Vampire Survivors",
       "custom_description": "Vampire Survivors é um exemplo de como design minimalista pode gerar profundidade emergente. Com controles simples — apenas movimento — o jogador gerencia um personagem que ataca automaticamente, escolhendo upgrades de armas a cada nível. O resultado é um exercício de build crafting e sinergia de sistemas com acessibilidade surpreendente. Por sua baixíssima barreira de entrada e preço acessível, é ideal para introduzir mecânicas de jogos a populações que normalmente não jogam. É um caso de estudo perfeito sobre sistemas emergentes: comportamentos complexos surgindo de regras simples.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Sistemas emergentes, pensamento combinatório, design minimalista e acessibilidade digital."
     },
     {
-      "game_id": "1173510",
+      "game_id": "739630",
       "title": "Phasmophobia",
       "custom_description": "Phasmophobia é um jogo cooperativo de investigação de fantasmas onde equipes coletam evidências para identificar o tipo de entidade assombrando um local. O jogo ensina metodologia de investigação científica: coletar dados com equipamentos, formular hipóteses baseadas em evidências, eliminar possibilidades e chegar a uma conclusão. A comunicação entre membros da equipe é fundamental. O sistema de 24 tipos de fantasmas exige que jogadores criem modelos mentais e atualizem hipóteses com novas evidências. Por ser cooperativo e popular entre jovens, é uma porta de entrada eficaz para ensinar pensamento investigativo e trabalho em equipe.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Investigação científica, formulação de hipóteses, trabalho em equipe e comunicação sob pressão."
     },
     {
-      "game_id": "774171",
+      "game_id": "606150",
       "title": "Moonlighter",
       "custom_description": "Moonlighter conta a história de Will, um comerciante que sonha em ser aventureiro. Durante a noite, explora masmorras para coletar itens. Durante o dia, gerencia sua loja. A dupla estrutura cria uma simulação completa de microeconomia: o jogador aprende como funciona a lei da oferta e demanda na prática — vender muitos itens iguais derruba o preço; itens raros valem mais. A gestão da loja envolve precificação, controle de estoque, investimento em melhorias e expansão gradual do negócio. Para jovens empreendedores, Moonlighter é um simulador de negócios disfarçado de aventura.",
-      "tags_ods": ["Educação", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Inovação"
+      ],
       "learning_goals": "Microeconomia, oferta e demanda, gestão de negócios, precificação e empreendedorismo."
     },
     {
       "game_id": "281990",
       "title": "Stellaris",
       "custom_description": "Stellaris é um 4X espacial que coloca o jogador no comando de uma civilização intergaláctica. O jogo é único por suas questões filosóficas centrais: que valores nossa civilização vai exportar para a galáxia? O sistema de éticas e autoridades de governo — materialismo vs. espiritualismo, democracia vs. aristocracia — força o jogador a articular valores políticos e viver com suas consequências. Os eventos aleatórios incluem dilemas éticos fascinantes sobre inteligência artificial, direitos de sintéticos e o que constitui uma pessoa. Para cursos de filosofia política e relações internacionais, Stellaris oferece um sandbox sem paralelo.",
-      "tags_ods": ["Educação", "Paz e Justiça", "Inovação"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça",
+        "Inovação"
+      ],
       "learning_goals": "Filosofia política, relações internacionais, ética de IA, diplomacia e teoria de governança."
     },
     {
       "game_id": "1182900",
       "title": "Crusader Kings III",
       "custom_description": "Crusader Kings III é um simulador de dinastia medieval onde o jogador gerencia não apenas um reino, mas uma linhagem ao longo de gerações. A morte do personagem não é o fim do jogo — você continua como seu herdeiro, carregando o legado das escolhas anteriores. Este design coloca questões profundas sobre heranças, valores familiares e o peso das gerações. O jogo simula com rigor a sociedade medieval — feudalismo, Igreja, vassalagem — e levanta questões éticas constantes sobre traição, manipulação e responsabilidade. Um recurso notável para história medieval e para debates sobre liderança e legado intergeracional.",
-      "tags_ods": ["Educação", "Paz e Justiça"],
+      "tags_ods": [
+        "Educação",
+        "Paz e Justiça"
+      ],
       "learning_goals": "História medieval, feudalismo, liderança, legado intergeracional e ética política."
     }
   ]
