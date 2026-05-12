@@ -146,7 +146,7 @@
       "learning_goals": "Biologia marinha, ecologia de ecossistemas, física de pressão, gestão de recursos e regulação emocional."
     },
     {
-      "game_id": "2379780",
+      "game_id": "1868140",
       "title": "Dave the Diver",
       "custom_description": "Dave the Diver combina mergulho de exploração com gestão de restaurante japonês. Durante o dia, o jogador mergulha em um misterioso buraco azul com ecossistema dinâmico para coletar peixes e ingredientes. À noite, gerencia o sushi bar com os recursos coletados. O jogo ensina cadeia alimentar marinha, sustentabilidade pesqueira e os impactos do sobrepesca de forma visceral — pescar demais hoje significa menos recursos amanhã. A gestão do restaurante introduz princípios de administração, precificação e satisfação do cliente. A narrativa aborda proteção de ecossistemas e culturas marinhas tradicionais. Acessível, divertido e rico em conteúdo educativo sobre meio ambiente e empreendedorismo.",
       "tags_ods": [
@@ -178,18 +178,6 @@
       "learning_goals": "Restauração ecológica, biomas, sucessão ecológica, sustentabilidade e filosofia do desenvolvimento."
     },
     {
-      "game_id": "1039540",
-      "title": "Eco",
-      "custom_description": "Eco é um MMO de construção e sobrevivência com uma premissa única: um meteoro está a dias de atingir o planeta, e os jogadores precisam desenvolver tecnologia suficiente para destruí-lo — sem destruir o ecossistema no processo. O jogo simula em tempo real os impactos ambientais de cada decisão coletiva: poluição do ar, erosão do solo, extinção de espécies. Há um governo player-driven com leis, impostos e votações. Eco é uma simulação completa de desenvolvimento sustentável, política ambiental e tragédia dos comuns. Nenhum outro jogo coloca jovens tão diretamente na posição de policy makers enfrentando a crise climática.",
-      "tags_ods": [
-        "Vida Terrestre",
-        "Consumo Responsável",
-        "Paz e Justiça",
-        "Inovação"
-      ],
-      "learning_goals": "Política ambiental, tragédia dos comuns, cidadania, desenvolvimento sustentável e simulação de governança."
-    },
-    {
       "game_id": "753640",
       "title": "Outer Wilds",
       "custom_description": "Outer Wilds é frequentemente descrito como o jogo mais importante da última década. O jogador acorda em um sistema solar preso em um loop de 22 minutos que termina na explosão do sol. Não há missões, não há marcadores — apenas um sistema solar misterioso para explorar através de observação pura. O jogo modela a curiosidade científica em sua forma mais pura: o progresso não vem de ficar mais forte, mas de aprender mais. Outer Wilds lida com temas de finitude, aceitação da morte, legado civilizacional e o valor do conhecimento pelo conhecimento. Uma experiência filosófica e científica que permanece com o jogador para sempre.",
@@ -200,7 +188,7 @@
       "learning_goals": "Curiosidade científica, astronomia, física orbital, filosofia da finitude e aprendizagem exploratória."
     },
     {
-      "game_id": "1599340",
+      "game_id": "632470",
       "title": "Disco Elysium",
       "custom_description": "Disco Elysium é o RPG mais literário já criado — um romance interativo sobre um detetive sem memória em uma cidade pós-revolucionária em colapso. O jogo não tem combate: todo conflito é resolvido por diálogo, persuasão e interpretação. As habilidades do personagem representam vozes internas em conflito — Enciclopédia, Empatia, Autoridade — criando uma representação notável de psicologia introspectiva. A narrativa aborda capitalismo, comunismo, fascismo e liberalismo não como abstrações, mas como experiências vividas por personagens complexos. Disco Elysium é material para cursos de filosofia política, literatura e psicologia. Uma das obras mais importantes da ficção do século XXI, independente do meio.",
       "tags_ods": [
@@ -268,16 +256,6 @@
         "Paz e Justiça"
       ],
       "learning_goals": "História romana, ética coletiva, livre-arbítrio, pensamento lateral e resolução de conflitos."
-    },
-    {
-      "game_id": "438700",
-      "title": "11-11: Memories Retold",
-      "custom_description": "11-11: Memories Retold é uma experiência narrativa ambientada na Primeira Guerra Mundial, contada simultâneamente por um soldado canadense e um alemão. O jogo usa uma estética de pintura impressionista única e não tem combate — é sobre cartas, fotografias, amizades improváveis e o absurdo desumanizante da guerra. A decisão de humanizar soldados de ambos os lados é um ato pedagógico poderoso: demonstra que guerras são travadas por pessoas comuns em circunstâncias extraordinárias. É uma ferramenta extraordinária para aulas de história, capaz de gerar empatia histórica de uma forma que nenhum livro didático consegue.",
-      "tags_ods": [
-        "Paz e Justiça",
-        "Educação"
-      ],
-      "learning_goals": "História da Primeira Guerra, empatia histórica, perspectiva múltipla, paz e humanização do inimigo."
     },
     {
       "game_id": "464920",
